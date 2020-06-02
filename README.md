@@ -18,7 +18,6 @@ An IoT solution that helps receiving and storing packages remotely and safely wi
 - Screws
 
 ### The IoT System
-
 |  # |     Name     |Part Number| Quantity | Unit Price |
 |----|--------------|-----------|----------|---|
 |1   |Paticle Argon                          | NA           |   1   |        $27|
@@ -27,7 +26,6 @@ An IoT solution that helps receiving and storing packages remotely and safely wi
 |4   |Circuits                               | NA           |several|         NA|
 
 ## Functional Specification
-
 Step 1: User installing the Smart Package Storage in the door of their residence. 
 
 Step 2: User connecting the Smart Package Storage to their smart home application or register it with their cellphone. 
