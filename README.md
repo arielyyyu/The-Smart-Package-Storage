@@ -56,7 +56,7 @@ Step 4: User can open the Smart Package Storage and take out their packages at t
 ![](Images/Circuit.png)
 
 ### Code
-[The Smart Package Code](final-sprint/smartpackagestorage.ino)
+[The Smart Package Code](The-Smart-Package-Storage/smartpackagestorage.ino)
 
 ### How it works
 [Video of the Project](https://youtu.be/ta2-8CUAebI)
