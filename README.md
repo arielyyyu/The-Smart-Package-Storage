@@ -21,11 +21,10 @@ An IoT solution that helps receiving and storing packages remotely and safely wi
 
 |  # |     Name     |Part Number| Quantity | Unit Price |
 |----|--------------|-----------|----------|---|
-|1   |Paticle Argon                          | NA           |1|        $27|
-|2   |TTL Serial JPEG Camera with NTSC Video | 397          |1|     $39.95|
-|3   |Lock-style Solenoid - 12VDC            | 1512         |1|     $14.95|
-|4   |Load cell                              | NA           |1|         NA|
-
+|1   |Paticle Argon                          | NA           |   1   |        $27|
+|2   |Lock-style Solenoid - 12VDC            | 1512         |   1   |     $14.95|
+|3   |Load cell                              | NA           |   1   |         NA|
+|4   |Circuits                               | NA           |several|         NA|
 
 ## Functional Specification
 
