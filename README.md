@@ -28,25 +28,25 @@ An IoT solution that helps receiving and storing packages remotely and safely wi
 ## Functional Specification
 Step 1: User installing the Smart Package Storage in the door of their residence. 
 
-Step 2: User connecting the Smart Package Storage to their smart home application or register it with their cellphone. 
+Step 2: User connecting the Smart Package Storage to their smart home application or their their mobile device. 
 
-Step 3: When the package is delivered to their Smart Package Storage and a image of the package is sent to the user, the user comfirm and approve to accepet the package. Their approval will send a signal to the system and thus opens the door of their Smart Package Storage to receive and store their package in the storage. 
+Step 3: When the package is delivered to their Smart Package Storage and a message with the package tracking image is sent to the user, the user comfirm and approve to accepet the package. Their approval will send a signal to the system and thus opens the door of their Smart Package Storage to receive and store their package in the cabinet. 
 
-Step 4: User can open the Smart Package Storage and take out their packages at their convenience. 
+Step 4: User can open the Smart Package Storage from the other end of the cabinet which locates indoor of their house and take out their packages at their convenience. 
 
 
 ## Product Backlog
 ### System steps
-- load cell sensor senses item(s) placed on the package slope
-- camera takes picture of the item(s) on the package
-- image sent to the user via text or smart home application message
-- lock of the storage door unlock after user's approval signal and item(s) slide in the cabinet
+Step 1: Load cell sensor senses the placement of package(s) on the collapsible package slope
 
-### Others
-- storage cabinet build up
-- circuit connected
-- functional and usability test
-- product polished
+Step 2: IoT system connects to twilio.com and send the user a message of notification with the link to the package tracking page (with the photo of the dropped package)
+
+Step 3: IoT systen receive signal based on user's respond on the message
+
+Step 4: Lock-style solenoid (lock of the storage door) unlock after user's approval signal and item(s) slide in the cabinet
+
+Step 5: Disinfection process while the package slides in the storage cabinet
+
 
 ## Prototype
 ### Circuit
