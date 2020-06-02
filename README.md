@@ -2,7 +2,7 @@
 An IoT solution that helps receiving and storing packages remotely and safely with zero social contact.
 
 ## Concept Design
-![](Images/Design1.jpg)
+![](Images/Design1.png)
 ![](Images/Design2.jpg)
 
 ## Bill of Materials
