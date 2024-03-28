@@ -53,7 +53,7 @@ Step 5: Disinfection process while the package slides in the storage cabinet
 ![](Images/Circuit.png)
 
 ### Code
-[The Smart Package Code](The-Smart-Package-Storage/smartpackagestorage.ino)
+[The Smart Package Code](smartpackagestorage.ino)
 
 ### How it works
 [Video of the Project](https://youtu.be/ta2-8CUAebI)
